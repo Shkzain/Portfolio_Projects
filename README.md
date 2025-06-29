@@ -23,4 +23,4 @@ Notes
 - More projects will be added over time.
 - Feel free to explore, review the code, or suggest improvements.
 
-Created and maintained by **Muhammad Zain**
+Created and maintained by Muhammad Zain
